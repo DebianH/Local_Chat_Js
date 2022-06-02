@@ -14,8 +14,8 @@
 
 * Phone, te conectas por medio de la red local (Colocas la ip de la pc que va hacer de servido ejemplo: http://192.168.10.10:3000)
 
-![alt text](/imgs/loginPhone.jpg)
+![alt text](/imgsloginPhone.jpeg)
 
 * Phone Users Chat
 
-![alt text](/imgs/chatHomePhone.jpg)
+![alt text](/imgs/chatHomePhone.jpeg)
